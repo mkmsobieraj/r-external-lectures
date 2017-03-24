@@ -1,0 +1,65 @@
+---
+title: "I Wstęp"
+author: "Mateusz Sobieraj"
+date: "21 marca 2017"
+encoding: "UTF-8"
+output: 
+  ioslides_presentation:
+    css: dependieties/styles.css
+    widescreen: false
+    transition : "slower"
+    smaller: true
+    logo: dependieties/r_logo.png
+
+---
+
+<!-- 'f' enable fullscreen mode -->
+<!-- 'w' toggle widescreen mode -->
+<!-- 'o' enable overview mode -->
+<!-- 'h' enable code highlight mode -->
+<!-- 'p' show presenter notes -->
+
+## Plan wykładu {.build}
+
+  - Czym jest R
+  - Instalacja R i Rstudio
+  - Gdzie szykać inforamcji
+  - Jak kożystać z pomocy
+  - Skróty klawiszowe
+  - Jak wczytywać dane
+  - Struktury danych 
+  - Podstawowe operacje matematyczne
+
+
+## Czym jest R {.build}
+
+  - R jest językiem interpretowanym
+  - R jest wolnym językiem
+  - R jest językiem używanym przedewszystkim w statystyce, modelowaniu, wizualizacji 
+  - R został stworzony przez Roberta Gentlemana i Rossa Ihakę
+  - R jest dostępny na platformach Microsoft Windows i Mac OS i wielu dystrybucji Linux.
+  
+## Instalacja R i Rstudio {.build}
+
+## Gdzie szykać inforamcji {.build}
+
+  - [rstudio.com](https://www.rstudio.com/products/rpackages/)
+  - [rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/)
+  - [r-project](https://cran.r-project.org/)
+  - [Przewodnik po pakiecie R Pprzemysław Biecek](http://biecek.pl/R/PrzewodnikPoPakiecieRWydanieIVinternet.pdf)
+  - [r-bloggers](https://www.r-bloggers.com/)
+  
+## Skróty klawiszowe {.build}
+
+- `F1 (kursor na funkcji)` - wyświetlenie pomocy
+- `F2 (kursor na funkcji)` - wyświetlenie kodu funkcji 
+- `Crtl + Enter` - wykonanie linii/fragmentu kodu
+- `Crtl + Shift + R` - wykonanie całego skryptu
+- `Ctrl + Shift + C` - za komentowanie / od komentowanie linii lub zaznaczonego obszaru
+- `Alt + -` - wstawienie strzałki przypisania `<-`
+- `Crtl + 1` / `Crtl + 2` przejście do skryptu/konsoli
+- `Crtl + l` - czyszczenie konsoli
+- `Tab` - podczas pisania funkcji podpowiedź
+- `Tab` - podczas wpisywania argumentów podpowiedź
+- `Tab` - podczas gdy zaznaczone jest kilka linii, dodanie wcięcia
+- `Tab + Shift` - podczas gdy zaznaczone jest kilka linii, usunięcie wcięcia

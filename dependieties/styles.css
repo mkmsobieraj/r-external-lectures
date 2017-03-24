@@ -1,0 +1,13 @@
+code {
+  color: 	rgba(255, 118, 42, 1) !important;
+  /*background-color: rgba(120, 120, 120, 1) !important */
+}
+
+pre {
+  font-size: 12px !important;
+  line-height: 16px !important;
+}
+
+th {
+ background rgba(255, 118, 42, 1) !important;
+}
